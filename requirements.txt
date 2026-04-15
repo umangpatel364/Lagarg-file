@@ -97,6 +97,7 @@ six==1.17.0
 soupsieve==2.8.3
 stack-data==0.6.3
 sympy==1.14.0
+streamlit==1.33.0
 terminado==0.18.1
 threadpoolctl==3.6.0
 tiktoken==0.12.0
